@@ -4,4 +4,4 @@ This repo contains installation guide to everything out there. It is community d
 
 ## List of Available Guides
 
-- [Template for Guide](https://github.com/moghya/install-it/guides/template.md)
+- [Template for Guide](https://github.com/moghya/install-it/blob/master/guides/template.md)
