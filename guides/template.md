@@ -1,45 +1,53 @@
-# Install Name of Tool/Software/Technology
+# How to Install Tool/Software/Technology
 
-Short information about the Tool/Software/Technology. [Official Website Link](http://#).
+Short informational section about Tool/Software/Technology. [Official Website Link](http://#).
 
-### Windows Operating System (version)
+### Linux (Insert Linux Distribution Name + version here)
 
-- Version Number of Technology - Version 1
-    - Prerequites 
-       - List any preresuites for installing this tool
-       - Download file from this [source](http://#).
+- Version `XXX` of Technology
+  - Requirements
+    - Req #1
+      - Instructions for Req #1
+      - Ex: Download file from [source](http://#).
+    - Req #2
+      - Instructions for Req #2
+      - Ex: Download file from [source](http://#).
 
-    - Installtion Steps
-       - First Step for Installation
-       - Second Step for Installtion
- 
- 
-- Version Number of Technology - Version 2
-    - Prerequites 
-       - List any preresuites for installing this tool
-       - Download file from this [source](http://#).
+    - Installation Steps
+      - First Step
+      - Second Step
+      - etc...
 
-    - Installtion Steps
-       - First Step for Installation
-       - Second Step for Installtion
+### MacOS (Insert MacOS name + version number here)
 
-### Linux Operating System (version)
+- Version `YYY` of Technology
+  - Requirements
+    - Req #1
+      - Instructions for Req #1
+      - Ex: Download file from [source](http://#).
+    - Req #2
+      - Instructions for Req #2
+      - Ex: Download file from [source](http://#).
 
-- Version Number of Technology - Version 1
-    - Prerequites 
-       - List any preresuites for installing this tool
-       - Download file from this [source](http://#).
+    - Installation Steps
+      - First Step
+      - Second Step
+      - etc...
 
-    - Installtion Steps
-       - First Step for Installation
-       - Second Step for Installtion
- 
- 
-- Version Number of Technology - Version 2
-    - Prerequites 
-       - List any preresuites for installing this tool
-       - Download file from this [source](http://#).
 
-    - Installtion Steps
-       - First Step for Installation
-       - Second Step for Installtion
+### Windows (Insert Windows name and version number here)
+
+- Version `ZZZ` of Technology
+    - Requirements
+      - Req #1
+        - Instructions for Req #1
+        - Ex: Download file from [source](http://#).
+      - Req #2
+        - Instructions for Req #2
+        - Ex: Download file from [source](http://#).
+
+    - Installation Steps
+      - First Step
+      - Second Step
+      - etc...
+
