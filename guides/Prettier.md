@@ -9,27 +9,27 @@
       - Install Webstorm IDE [Official Website Link](https://www.jetbrains.com/webstorm/).
 
     - Installation Steps
-      1) Install prettier globally : 
+		- Install prettier globally : 
 
-		A)Command : npm install -g prettier.
-		B)Output  : C:\Users\DEEPAK AHIRE\AppData\Roaming\npm\prettier -> C:\Users\DEEPAK AHIRE\AppData\Roaming\npm\node_modules\prettier\bin\prettier.js
-			+ prettier@1.9.2
-			added 1 package in 16.264s
+			- Command : npm install -g prettier.
+			- Output  : C:\Users\DEEPAK AHIRE\AppData\Roaming\npm\prettier -> C:\Users\DEEPAK AHIRE\AppData\Roaming\npm\node_modules\prettier\bin\prettier.js
+				+ prettier@1.9.2
+				added 1 package in 16.264s
 
-		2) Go to webstorm preferences : Ctrl+Alt+S
+		- Go to webstorm preferences : Ctrl+Alt+S
 
-		3) Go to tools -> external tools
+		- Go to tools -> external tools
 
-		4) Add a new external tool by clicking '+' icon.
+		- Add a new external tool by clicking '+' icon.
 
-		5) Setup the properties for tool as follows : 
+		- Setup the properties for tool as follows : 
 	
 			A) Name : -- Give any name --
 			B) Program : C:\Users\DEEPAK AHIRE\AppData\Roaming\npm\prettier.cmd (.cmd in case of Windows)
 			C) Parameters : --write --single-quote --trailing-comma=all $FilePathRelativeToProjectRoot$
 			D) Working directory : $ProjectFileDir$
 
-		6) Setup the shortcut for using the tool using keymap in preferences : (shift + p) (You can choose any).
+		- Setup the shortcut for using the tool using keymap in preferences : (shift + p) (You can choose any).
 
-		7) You are ready to use.
+		- You are ready to use.
 
