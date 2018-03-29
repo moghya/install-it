@@ -1,11 +1,17 @@
-# Thank you so much for Contributing.
+# Thank you so much for contributing.
 
 ### Please follow these steps to contribute.
 
-1. Pull correct information about installtion of tool/software.
-2. Create `technology-name.md` file in `guides` directory.
-3. Use template from `guides/template.md` and edit it with relevant information.
-4. Test the installtion guide that you're contributing.
-5. Add links and images when needed.
-6. Open a Pull Request
-7. Add your github username to the `CONTRIBUTORS.md` file once the Pull Request is merged.
+**Linking Documentation**
+
+1. If the native documentation is comprehensive, just add it as a link in the README.
+2. Pull Request!
+
+**Creating New Documentation**
+
+1. Create `technology-name.md` file in `guides` directory using `guides/template.md`.
+2. Edit in correct information about requirements/installation steps of tool/software. Add links and images when needed.
+3. Test the installation guide that you're contributing.
+4. Add your github username to the `CONTRIBUTORS.md` file
+6. Pull Request!
+
