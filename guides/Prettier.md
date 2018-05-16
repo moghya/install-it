@@ -33,3 +33,12 @@
 
 		- You are ready to use.
 
+### UBUNTU Operating System - Canonical Ltd., Ubuntu community
+
+-Prettier 1.12.1
+	- Prerequisites
+		- Install Webstorm IDE [Official Website Link](https://www.jetbrains.com/webstorm/).
+
+    	- Installation Steps
+		- Install prettier globally : 
+			-Command: sudo npm install -g prettier
