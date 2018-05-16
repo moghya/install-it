@@ -43,3 +43,4 @@
     	- Installation Steps
 		- Install prettier globally : 
 			-Command: sudo npm install -g prettier
+
