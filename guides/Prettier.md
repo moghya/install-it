@@ -33,10 +33,6 @@
 
 		- You are ready to use.
 
-# How to Install Prettier for Javascript in Jetbrains Webstorm IDE.
-
- An opinionated code formatter, Supports many languages, Integrates with most editors [Official Website Link](https://prettier.io/).
-
 ### Windows Operating System - Microsoft Windows 10
 
 - Prettier 1.11.1
