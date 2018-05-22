@@ -33,3 +33,32 @@
 
 		- You are ready to use.
 
+### UBUNTU Operating System - Canonical Ltd., Ubuntu community
+
+- Prettier 1.12.1
+    - Prerequisites
+      - Install Webstorm IDE [Official Website Link](https://www.jetbrains.com/webstorm/).
+
+    - Installation Steps
+		- Install prettier globally : 
+
+			- Command : sudo npm install -g prettier. (Check the installation paths in global installations).
+
+		- Go to webstorm preferences : Ctrl+Alt+S
+
+		- Go to tools -> external tools
+
+		- Add a new external tool by clicking '+' icon.
+
+		- Setup the properties for tool as follows : 
+	
+			A) Name : -- Give any name --
+			B) Program : /usr/local/bin/prettier (Link to Perl script (application/x-perl))
+			C) Parameters : --write --single-quote --trailing-comma=all $FilePathRelativeToProjectRoot$
+			D) Working directory : $ProjectFileDir$
+
+		- Setup the shortcut for using the tool using keymap in preferences : (shift + p) (You can choose any).
+
+		- You are ready to use.
+
+
