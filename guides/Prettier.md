@@ -25,8 +25,11 @@
 		- Setup the properties for tool as follows : 
 	
 			A) Name : -- Give any name --
+			
 			B) Program : C:\Users\DEEPAK AHIRE\AppData\Roaming\npm\prettier.cmd (.cmd in case of Windows)
+			
 			C) Parameters : --write --single-quote --trailing-comma=all $FilePathRelativeToProjectRoot$
+			
 			D) Working directory : $ProjectFileDir$
 
 		- Setup the shortcut for using the tool using keymap in preferences : (shift + p) (You can choose any).
@@ -53,8 +56,11 @@
 		- Setup the properties for tool as follows : 
 	
 			A) Name : -- Give any name --
+			
 			B) Program : /usr/local/bin/prettier (Link to Perl script (application/x-perl))
+			
 			C) Parameters : --write --single-quote --trailing-comma=all $FilePathRelativeToProjectRoot$
+			
 			D) Working directory : $ProjectFileDir$
 
 		- Setup the shortcut for using the tool using keymap in preferences : (shift + p) (You can choose any).
