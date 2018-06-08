@@ -14,7 +14,7 @@
 
 	- Installation Steps
 		
-		- Install Workstation: 
+		- Install Workstation:
 			
 			- Command: Type the following commands:
 				
