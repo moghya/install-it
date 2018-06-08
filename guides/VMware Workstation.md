@@ -5,11 +5,14 @@
 ### UBUNTU Operating System - Canonical Ltd., Ubuntu community
 
 - VMware Workstation version: 14.1.2
-	- Prerequisites
-      	- Workstation should be compatible with the platform.
-      		- Download the Workstation Player (.bundle) file from the downloads section of official website.
 
-    	- Installation Steps
+	- Prerequisites
+		
+		- Workstation should be compatible with the platform.
+		
+		- Download the Workstation Player (.bundle) file from the downloads section of official website.
+
+	- Installation Steps
 		
 		- Install Workstation: 
 			
@@ -21,5 +24,5 @@
 		
 		- Test the installation in the applications.
 		
-		- You are ready to use.
+	- You are ready to use.
 
