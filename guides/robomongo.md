@@ -19,8 +19,8 @@ Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts
 				2) sudo sudo mv robomongo-<version specific details>/ /usr/bin/robomongo
 			
 				3) sudo export PATH=/usr/bin/robomongo/bin:$PATH
-        
-        			4) Add the following line to the end of .bashrc file: alias robomongo='/usr/local/bin/robomongo/bin/robo3t'  
+				
+				4) Add the following line to the end of .bashrc file: alias robomongo='/usr/local/bin/robomongo/bin/robo3t'  
 				
 				5) Save and close the file. Now reload it using the following command: source ~/.bashrc
 				
