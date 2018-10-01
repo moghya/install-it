@@ -1,7 +1,7 @@
 # Setting up the environment
 ## Platform: UBUNTU 18.04.1 LTS
 ### Prerequisites:
-  - Node JS environment. Download and Install [Node JS](https://nodejs.org/)
+  - Node JS environment. DownPower BI Custom Visual Certificates Installationload and Install [Node JS](https://nodejs.org/)
   - Intall or check for the latest version of npm.
     - You might face npm errors in future: "write after end".
       - Solution: Execute the following commands:
@@ -70,3 +70,5 @@
           - `sudo dpkg-reconfigure ca-certificates`
   
 ### Congratulations! you have perfectly setup the environment. You are ready to code in one of my favourite langauage, **TYPESCRIPT** !!
+
+### Best of luck for a new Journey!
