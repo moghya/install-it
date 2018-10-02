@@ -5,7 +5,7 @@ This goal of this repository is to create installation guides for everything out
 
 ### List of Available Guides
 
-- [Template for Guide](https://github.com/moghya/install-it/blob/master/guides/template.md)
+- [Template for Guide](https://github.com/moghya/install-it/blob/master/templates/standard_template.md)
 
 **Languages**
 
@@ -41,3 +41,4 @@ Instead of rewriting it here, we'll just link you to an up-to-date version!
 + [LaTeX](https://www.latex-project.org/get/)
 + [Python](https://www.python.org/downloads/)
 + [R](https://cran.r-project.org/mirrors.html)
++ [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
