@@ -14,7 +14,11 @@
  - Check the installation by fetching the databases
    - Use the following command to install the MYSQL Server:
       - **Showing All Databases:** **`show databases;`**
-      
+ 
+ - Start/Stop the MYSQL Server
+   - Start: **`sudo /etc/init.d/mysql start`**
+   - Stop: **`./mysqladmin -u root -p shutdown`**
+   
  - Installation of the MYSQL Workbench:
    - Download the Installation Files from the [Official URL](https://dev.mysql.com/downloads/workbench/)
    - Select the respective OS before downloading and install it.
