@@ -1,0 +1,22 @@
+# How to Uninstall Webstorm IDE.
+
+### UBUNTU Operating System - Canonical Ltd., Ubuntu community
+
+- JetBrains Webstorm IDE.
+    - Prerequisites
+      - No prerequisites.
+
+    - Uninstallation Steps
+		- Uninstallation globally : 
+
+			- Command: Type the following commands:
+				
+				1) rm -rf ~/WebStorm-145.1616.9/
+        2) rm -rf ~/.Webstorm2016.1/
+        3) rm -rf ~/.gnome/apps/jetbrains-webstorm.desktop
+        4) rm -rf ~/.local/share/applications/jetbrains-webstorm.desktop
+			
+    - Restart machine.
+    
+    - You are ready to fresh install the IDE.
+
