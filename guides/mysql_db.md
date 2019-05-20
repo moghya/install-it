@@ -35,4 +35,16 @@
      - Flushing Priviledges: **`FLUSH PRIVILEGES;`**
      - Quit: **`quit`**
      
+ - Connect to database installed on the remote server using Ubuntu Terminal and Mysql Workbench:
+   - **NOTE:** It is important to note that the default user (root) is not directly accessible remotely.
+   - So create a new/ custom user and grant the privileges accordingly uisng the following commands:
+     - **`CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';`**
+     - **`GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' WITH GRANT OPTION;`**
+     - **`CREATE USER 'username'@'%' IDENTIFIED BY 'password';`**
+     - **`GRANT ALL PRIVILEGES ON *.* TO 'username'@'%' WITH GRANT OPTION;`**
+     - **`FLUSH PRIVILEGES;`**
+   - Change the line: **bind-address 127.0.0.1** to **bind-address 0.0.0.0** so that the DB is accessible from all the IP addresses in the file `/etc/mysql/mysql.conf.d/mysqld.cnf.`
+   - Connect to the mysql server using the following command:
+     - **`mysql -u <username> -p<password> -h <remote server ip or name> -P <port> -D <DB name>`**
+     - **`NOTE:`** There is no space after -p.
  - Connect again and you are ready to go!!
